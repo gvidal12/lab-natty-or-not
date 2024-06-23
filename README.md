@@ -21,18 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+História do Futebol
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Solicitei ao chatgpt para criar um artigo a partir de um template para criar um artigo sobre a história do futebol
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Utilizei o chatgpt para criar um artigo sobre a historia do futebol.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+O artigo foi copiado para um txt e está disponivel no repositorio como nome de Tarefa
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
